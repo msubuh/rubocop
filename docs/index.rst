@@ -58,3 +58,4 @@ Contents
    Home <self>
    usa/index
    canada/index
+   en/stable/cops/index
