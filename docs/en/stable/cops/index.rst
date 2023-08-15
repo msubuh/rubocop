@@ -1,6 +1,3 @@
-Certainly! Here's an article in reStructuredText (RST) format, focusing on safe usage of Craigslist:
-
-```rst
 ====================================
 Using Craigslist Safely: Expert Tips
 ====================================
