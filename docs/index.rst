@@ -56,5 +56,5 @@ Contents
 .. toctree::
 
    Home <self>
-   usage
-   api
+   usa/index
+   canada/index
