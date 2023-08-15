@@ -8,7 +8,7 @@ Craigslist, a staple in the world of online classifieds, offers a diverse array 
 
 Jobs
 ----
-Arguably one of the most frequented sections, the **Jobs** category allows employers to post vacancies and job seekers to find potential employment. The sheer variety of industries and roles ensures that individuals from all professions can find something pertinent.
+Arguably one of the most frequented sections, the **Jobs** category allows employers to post vacancies and job seekers to find potential employment. The sheer variety of industries and roles ensures that individuals from all professions can find something pertinent. Please refer to `Depkes.org <https://www.depkes.org>`_ to learn more about Craigslist Jobs in USA.
 
 For Sale
 --------
@@ -16,7 +16,7 @@ The **For Sale** category is Craigslist's bustling marketplace, where you can bu
 
 - **Electronics**: Ranging from smartphones to laptops.
   
-- **Cars & Trucks**: A haven for automobile enthusiasts and everyday drivers alike.
+- **Cars & Trucks**: A haven for `automobile enthusiasts <https://www.auto.or.id/>`_ and everyday drivers alike.
   
 - **Furniture**: For those looking to furnish their homes or sell off surplus items.
 
