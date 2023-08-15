@@ -70,6 +70,4 @@ Conclusion
 ----------
 Craigslist offers a plethora of opportunities for buying, selling, and connecting, but it also presents risks. Armed with knowledge and caution, you can navigate the platform safely and confidently. Always prioritize your safety and be skeptical of too-good-to-be-true offers.
 
-```
-
 Remember, the best defense against scams is vigilance and education. By being aware of common tactics and consistently following safety measures, you can enjoy the benefits of Craigslist without falling victim to potential pitfalls.
